@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | ALVIN ALFANDY |
-| **NIM** | 312310473 |
+| **Nama** | ABIDZAR SABIL HANDOYO |
+| **NIM** | 312310471 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
 
